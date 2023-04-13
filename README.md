@@ -20,22 +20,21 @@ We kindly ask **scientific works and studies** that make use of the repository t
 You can cite our work using the following BibTeX entry:
 
 ```
-@inproceedings{10.1145/3399715.3399744,
-author = {Calisto, Francisco Maria and Nunes, Nuno and Nascimento, Jacinto C.},
-title = {BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis},
-year = {2020},
-isbn = {9781450375351},
+@inproceedings{10.1145/3544548.3580682,
+author = {Calisto, Francisco Maria and Fernandes, Jo\~{a}o and Morais, Margarida and Santiago, Carlos and Abrantes, Jo\~{a}o Maria and Nunes, Nuno and Nascimento, Jacinto C.},
+title = {Assertiveness-based Agent Communication for a Personalized Medicine on Medical Imaging Diagnosis},
+year = {2023},
+isbn = {9781450394215},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3399715.3399744},
-doi = {10.1145/3399715.3399744},
-abstract = {This paper describes the field research, design and comparative deployment of a multimodal medical imaging user interface for breast screening. The main contributions described here are threefold: 1) The design of an advanced visual interface for multimodal diagnosis of breast cancer (BreastScreening); 2) Insights from the field comparison of Single-Modality vs Multi-Modality screening of breast cancer diagnosis with 31 clinicians and 566 images; and 3) The visualization of the two main types of breast lesions in the following image modalities: (i) MammoGraphy (MG) in both Craniocaudal (CC) and Mediolateral oblique (MLO) views; (ii) UltraSound (US); and (iii) Magnetic Resonance Imaging (MRI). We summarize our work with recommendations from the radiologists for guiding the future design of medical imaging interfaces.},
-booktitle = {Proceedings of the International Conference on Advanced Visual Interfaces},
-articleno = {49},
-numpages = {5},
-keywords = {user-centered design, multimodality, medical imaging, human-computer interaction, healthcare systems, breast cancer, annotations},
-location = {Salerno, Italy},
-series = {AVI '20}
+url = {https://doi.org/10.1145/3544548.3580682},
+doi = {10.1145/3544548.3580682},
+abstract = {Intelligent agents are showing increasing promise for clinical decision-making in a variety of healthcare settings. While a substantial body of work has contributed to the best strategies to convey these agents’ decisions to clinicians, few have considered the impact of personalizing and customizing these communications on the clinicians’ performance and receptiveness. This raises the question of how intelligent agents should adapt their tone in accordance with their target audience. We designed two approaches to communicate the decisions of an intelligent agent for breast cancer diagnosis with different tones: a suggestive (non-assertive) tone and an imposing (assertive) one. We used an intelligent agent to inform about: (1) number of detected findings; (2) cancer severity on each breast and per medical imaging modality; (3) visual scale representing severity estimates; (4) the sensitivity and specificity of the agent; and (5) clinical arguments of the patient, such as pathological co-variables. Our results demonstrate that assertiveness plays an important role in how this communication is perceived and its benefits. We show that personalizing assertiveness according to the professional experience of each clinician can reduce medical errors and increase satisfaction, bringing a novel perspective to the design of adaptive communication between intelligent agents and clinicians.},
+booktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+numpages = {20},
+keywords = {Clinical Decision Support System, Healthcare, Breast Cancer},
+location = {Hamburg, Germany},
+series = {CHI '23}
 }
 ```
 
