@@ -115,15 +115,7 @@ The current information will summarize important items of this repository. In th
 
 The following list, represents the set of related repositories for the presented one:
 
-- [`sa-uta8-utaut`](https://github.com/mida-project/sa-uta8-utaut)
-
-- [`prototype-assertive-proactive`](https://github.com/MIMBCD-UI/prototype-assertive-proactive)
-
-- [`prototype-assertive-reactive`](https://github.com/MIMBCD-UI/prototype-assertive-reactive)
-
-- [`prototype-non-assertive-proactive`](https://github.com/MIMBCD-UI/prototype-non-assertive-proactive)
-
-- [`prototype-non-assertive-reactive`](https://github.com/MIMBCD-UI/prototype-non-assertive-reactive)
+- [`sa-uta11-results`](https://github.com/MIMBCD-UI/sa-uta11-results)
 
 - [`dataset-uta11-dicom`](https://github.com/MIMBCD-UI/dataset-uta11-dicom)
 
