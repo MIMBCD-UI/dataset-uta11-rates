@@ -127,6 +127,8 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta10-rates`](https://github.com/MIMBCD-UI/dataset-uta10-rates)
 
+- [`dataset-uta10-classifications`](https://github.com/MIMBCD-UI/dataset-uta10-classifications)
+
 ### Dataset Resources
 
 To publish our datasets we used a well known platform called [Kaggle](https://www.kaggle.com). For the purpose, three main resources [`uta4-singlemodality-vs-multimodality-nasatlx`](https://www.kaggle.com/MIMBCD-UI/uta4-singlemodality-vs-multimodality-nasatlx), [`uta4-sm-vs-mm-sheets`](https://www.kaggle.com/MIMBCD-UI/uta4-sm-vs-mm-sheets) and [`uta4-sm-vs-mm-sheets-nameless`](https://www.kaggle.com/MIMBCD-UI/uta4-sm-vs-mm-sheets-nameless) are published in this platform. Last but not least, *datasets* are also published at [figshare](https://figshare.com/projects/Single-Modality_vs_Multi-Modality/78372) and [OpenML](https://www.openml.org/d/42349) platforms.
